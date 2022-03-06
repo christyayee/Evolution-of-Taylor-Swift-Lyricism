@@ -17,3 +17,7 @@ A link to the dataset can be found at https://www.kaggle.com/thespacefreak/taylo
 With my analysis, I intend to determine themes present within each album in isolation and her discography overall by investigating the most frequently used words and phrases, along with a visualization to illustrate the words most associated with each. To better understand her change over time, I also plan on graphing the number of songs per album that incorporate her most popular words to investigate whether there is a thematic shift and when. I would also potentially perform a sentiment analysis to examine the highs and lows of her life growing up and through her journey of fame.   
 
 Overall, through my research, my goal is to better understand Taylor Swift’s inspirations and life experiences that have shaped her and her music and have contributed to her lasting career. Ultimately, I hope to gain insight into her evolution as an artist and as a person. 
+
+## Link
+To open the interactive notebook for my analysis, click here: 
+https://mybinder.org/v2/gh/christyayee/Thematic-Evolution-of-Taylor-Swift-Lyricism/HEAD
