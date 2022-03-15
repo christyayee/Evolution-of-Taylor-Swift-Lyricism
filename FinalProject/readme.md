@@ -1,15 +1,5 @@
 # Initial Project Proposal
 
-
-### Link
-To open the interactive notebook for my analysis, click here: 
-https://mybinder.org/v2/gh/christyayee/Thematic-Evolution-of-Taylor-Swift-Lyricism/HEAD
-
-Or,
-To view the blog version, click here:
-https://christyayee.github.io/fastai/2022/03/14/Evolution-of-Taylor-Swift-Lyricism.html
-
-
 ### Introduction
 Time in the limelight as long as that of Taylor Swift is rare in the volatile music industry. With a career spanning over 16 years and counting, 9 albums over 3 genres, and over 200 songs, whether you hate her or love her, it is no question that her discography is impressive. In fact, her music earned her Billboard's first-ever Woman of the Decade. Often, music experts and her fans credit the reason for her continued relevance and success to her principal role and involvement in the songwriting and music production process of her albums. In particular, Taylor Swift has gained a reputation for her narrative songwriting style and detailed lyricism. As a result, through her transitions from country to pop to folk, she has managed to remain musically uniquely and authentically herself. As she matured from a wide-eyed teenage country singer to an international sensation, her growth is evident through her musical evolution. With my research, I hope to investigate *“How has the lexicon of Taylor Swift’s songwriting changed over time?”*
 
