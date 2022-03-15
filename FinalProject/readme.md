@@ -1,7 +1,7 @@
 # Initial Project Proposal
 
 
-## Link
+### Link
 To open the interactive notebook for my analysis, click here: 
 https://mybinder.org/v2/gh/christyayee/Thematic-Evolution-of-Taylor-Swift-Lyricism/HEAD
 
