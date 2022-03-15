@@ -7,7 +7,7 @@ This project was completed as my final project for my class DH140 Coding for Hum
 
 ### Link
 To open the interactive notebook for my analysis, click here: 
-https://mybinder.org/v2/gh/christyayee/Thematic-Evolution-of-Taylor-Swift-Lyricism/HEAD
+https://hub.gke2.mybinder.org/user/christyayee-evo--swift-lyricism-6hznvhki/lab/tree/swift.ipynb
 
 Or,
 To view the blog version, click here:
