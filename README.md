@@ -5,11 +5,7 @@ This repository contains the code for my analysis on the evolution of Taylor Swi
 Specically, my analysis sought to understand *"How has the lexicon of Taylor Swift’s songwriting changed over time?”* To do so, I investigasted word frequencies as well as sentiment analysis scores through all her albums over the course of her career thus far.
 This project was completed as my final project for my class DH140 Coding for Humanities at UCLA. 
 
-### Link
-To open the interactive notebook for my analysis, click here: 
-https://hub.gke2.mybinder.org/user/christyayee-evo--swift-lyricism-6hznvhki/lab/tree/swift.ipynb
-
-Or,
-To view the blog version, click here:
-https://christyayee.github.io/fastai/2022/03/14/Evolution-of-Taylor-Swift-Lyricism.html
+### Links
+To open the interactive notebook for my analysis, click [here](https://hub.gke2.mybinder.org/user/christyayee-evo--swift-lyricism-6hznvhki/lab/tree/swift.ipynb).
+Or, to view the blog version, click [here](https://christyayee.github.io/fastai/2022/03/14/Evolution-of-Taylor-Swift-Lyricism.html).
 
