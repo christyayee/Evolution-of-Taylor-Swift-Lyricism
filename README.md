@@ -1,4 +1,4 @@
-# Evolution-of-Taylor-Swift-Lyricism
+# Evolution of Taylor Swift Lyricism
 
 ### Description
 This repository contains the code for my analysis on the evolution of Taylor Swift's lyricism, as well as the datasets I used (obtained from [Kaggle](https://www.kaggle.com/thespacefreak/taylor-swift-song-lyrics-all-albums)) which includes lyrics of every song from her eponymous debut album to Fearless (Taylor’s Version).
