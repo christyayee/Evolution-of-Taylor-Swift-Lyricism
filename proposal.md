@@ -11,7 +11,7 @@ With my data analysis, I hope to provide organized, visual data for me and other
 ### Data
 For my research, I am using a dataset from Kaggle entitled “Taylor Swift Song Lyrics (All Albums)” which includes lyrics of every song from her debut album to her latest Red (Taylor’s Version). To clarify, the Deluxe version of albums are chosen instead of original album versions. Furthermore, if Taylor’s Version re-releases exist for an album, the Taylor’s Version is used. These decisions both maximize inclusion of her songs. However, the dataset only includes songs released within her albums, and therefore does not include songs she wrote for other artists or songs released along with films such as “Safe and Sound,” “I Don’t Want To Live Forever,” or “Only the Young” since they were released with Hunger Games, 50 Shades Darker, and Miss Americana respectively. Each row in the dataset details the corresponding album title, song title, track number, lyric, and line number of the lyric within its song.
 
-A link to the dataset can be found at https://www.kaggle.com/thespacefreak/taylor-swift-song-lyrics-all-albums?select=07-lover.csv   
+A link to the dataset can be found at https://www.kaggle.com/thespacefreak/taylor-swift-song-lyrics-all-albums  
 
 
 ### Analysis
